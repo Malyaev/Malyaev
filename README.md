@@ -1,7 +1,7 @@
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/logo.jpg)
 
-### Всем привет 👋
-Это мое портфолио на Git Hub
+### Hi all 👋
+This is my portfolio on Git Hub
 =======
 ## I'm a QA Engineer Junior. 
 ## My CV
