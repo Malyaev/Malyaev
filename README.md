@@ -1,4 +1,4 @@
-![Header](https://github.com/Malyaev/Malyaev/blob/main/bugrepairsys.jpg)
+![Header](https://github.com/Malyaev/Malyaev/blob/main/logo.jpg)
 
 ### Всем привет 👋
 Это мое портфолио на Git Hub
