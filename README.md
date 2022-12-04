@@ -1,6 +1,11 @@
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/bugrepairsys.jpg)
 
-### Hi there 👋
+### Всем привет 👋
+Это мое портфолио на Git Hub
+=======
+## I'm a QA Engineer Junior. 
+## My CV
+[Link to my CV](https://spb.hh.ru/resume/f52ebc5bff0b58348b0039ed1f50355a385a42)
 
 <!--
 **Malyaev/Malyaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
