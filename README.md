@@ -16,4 +16,4 @@ This is my portfolio on Git Hub
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/mva_qa)
-[![Header](https://github.com/Malyaev/Malyaev/blob/main/LINKEDIN.jpg)](https://www.linkedin.com/in/malyaev/)
+[![Header](https://github.com/Malyaev/Malyaev/blob/main/LINKEDIN.png)](https://www.linkedin.com/in/malyaev/)
