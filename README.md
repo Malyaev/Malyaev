@@ -5,7 +5,7 @@ This is my portfolio on Git Hub
 =======
 ## I'm a QA Engineer Junior. 
 ## My CV
-[Link to my CV]([https://spb.hh.ru/resume/f52ebc5bff0b58348b0039ed1f50355a385a42](https://drive.google.com/file/d/1hg46UsOtsbOL6jGPHrs_3uuz7DGYiw7s/view?usp=sharing))
+[Link to my CV](https://drive.google.com/file/d/1hg46UsOtsbOL6jGPHrs_3uuz7DGYiw7s/view?usp=sharing)
 
 ### Tools
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
