@@ -1,4 +1,4 @@
-![Header](https://github.com/Malyaev/Malyaev/blob/main/logo.jpg)
+![Header](https://github.com/Malyaev/Malyaev/blob/main/logo.jg)
 
 ### Hi all 👋
 This is my portfolio on Git Hub
@@ -15,5 +15,5 @@ This is my portfolio on Git Hub
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/LINKEDIN.pn)
 
 ### Follow Me
-[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/mva_qa)
-[![Header](https://github.com/Malyaev/Malyaev/blob/main/LINKEDIN.png)](https://www.linkedin.com/in/malyaev/)
+[![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db.uu)](https://t.me/mva_qa)
+[![Header](https://github.com/Malyaev/Malyaev/blob/main/LINKEDIN.pn)](https://www.linkedin.com/in/malyaev/)
