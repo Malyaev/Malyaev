@@ -8,11 +8,11 @@ This is my portfolio on Git Hub
 [Link to my CV](https://drive.google.com/file/d/1hg46UsOtsbOL6jGPHrs_3uuz7DGYiw7s/view?usp=sharing)
 
 ### Tools
-![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
-![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
-![Header](https://img.shields.io/badge/Github-090909?style=for-the-badge&logo=github&logoColor=8cc4d7)
-![Header](https://img.shields.io/badge/MySQL-090909?style=for-the-badge&logo=mysql&logoColor=00618a)
-![Header](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=&logoColor=71b556)
+![Header](https://github.com/Malyaev/Malyaev/blob/main/LINKEDIN.pn)
+![Header](https://github.com/Malyaev/Malyaev/blob/main/LINKEDIN.pg)
+![Header](https://github.com/Malyaev/Malyaev/blob/main/LINKEDIN.ng)
+![Header](https://github.com/Malyaev/Malyaev/blob/main/LINKEDIN.pg)
+![Header](https://github.com/Malyaev/Malyaev/blob/main/LINKEDIN.pn)
 
 ### Follow Me
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/mva_qa)
