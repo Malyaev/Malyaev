@@ -5,7 +5,7 @@ This is my portfolio on Git Hub
 =======
 ## I'm a QA Engineer Junior. 
 ## My CV
-[Link to my CV](https://drive.google.com/file/d/1hg46UsOtsbOL6jGPHrs_3uuz7DGYiw7s/view?usp=sharing)
+[Ссылка на резюме!](https://drive.google.com/file/d/1hg46UsOtsbOL6jGPHrs_3uuz7DGYiw7s/view?usp=sharing)
 
 ### Инструменты и технологии
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Charles50.png)
