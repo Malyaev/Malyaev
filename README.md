@@ -4,7 +4,7 @@
 This is my portfolio on Git Hub
 =======
 ## I'm a QA Engineer Junior. 
-## My CV
+## Резюме
 [Ссылка на резюме!](https://drive.google.com/file/d/1hg46UsOtsbOL6jGPHrs_3uuz7DGYiw7s/view?usp=sharing)
 
 ### Инструменты и технологии
