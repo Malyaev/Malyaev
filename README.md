@@ -11,7 +11,7 @@ This is my portfolio on Git Hub
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Charles50.png)
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Postman50.png)
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Jira50.png)
-![Header](https://github.com/Malyaev/Malyaev/blob/main/LINKEDIN.pg)
+![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Figma50.png)
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/LINKEDIN.pn)
 
 ### Follow Me
