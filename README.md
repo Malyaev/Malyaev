@@ -1,4 +1,4 @@
-![Header](https://github.com/Malyaev/Malyaev/blob/main/logo.jpg)
+![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/logo.jpg)
 
 ### Всем привет! 👋
 This is my portfolio on Git Hub
