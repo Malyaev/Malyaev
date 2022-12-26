@@ -16,4 +16,4 @@ This is my portfolio on Git Hub
 
 ### Follow Me
 [![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Telegram30.png)](https://t.me/mva_qa)
-[![Header](https://github.com/Malyaev/Malyaev/blob/main/LINKEDIN.pn)](https://www.linkedin.com/in/malyaev/)
+[![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Linkedin30.png)](https://www.linkedin.com/in/malyaev/)
