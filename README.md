@@ -15,6 +15,7 @@ This is my portfolio on Git Hub
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Mysql50.png)
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Postgresql.png)
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/AS.png)
+![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Java.png)
 
 ### Follow Me
 [![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Telegram30.png)](https://t.me/mva_qa)
