@@ -8,6 +8,17 @@ This is my portfolio on Git Hub
 [Ссылка на резюме!](https://drive.google.com/file/d/1hg46UsOtsbOL6jGPHrs_3uuz7DGYiw7s/view?usp=sharing)
 
 ## Портфолио
++ Тестовая документация
+  - Тест-кейсы
+  - Чек-листы
+  - Mind Maps
+  - Баг-репорты
++ Коллекция в Postman
+  - Проект 1
+  - Проект 2
++ SQL запросы
+  - Проект 1
+  - Проект 2
 
 ### Инструменты и технологии
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Charles50.png)
