@@ -19,7 +19,7 @@ This is my portfolio on Git Hub
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/java.png)
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Python.png)
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/DevTools.png)
-![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Draw-io.png)
+![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Drawio.png)
 
 ### Контакты
 [![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Telegram30.png)](https://t.me/mva_qa)
