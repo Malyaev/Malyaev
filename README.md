@@ -9,7 +9,7 @@ This is my portfolio on Git Hub
 
 ### Tools
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Charles50.png)
-![Header](https://github.com/Malyaev/Malyaev/blob/main/LINKEDIN.pg)
+![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Postman50.png)
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/LINKEDIN.ng)
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/LINKEDIN.pg)
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/LINKEDIN.pn)
