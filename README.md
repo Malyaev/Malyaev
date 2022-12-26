@@ -13,6 +13,7 @@ This is my portfolio on Git Hub
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Jira50.png)
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Figma50.png)
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Mysql50.png)
+![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/postgresql.png)
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/AS.png)
 
 ### Follow Me
