@@ -8,7 +8,7 @@ This is my portfolio on Git Hub
 [Link to my CV](https://drive.google.com/file/d/1hg46UsOtsbOL6jGPHrs_3uuz7DGYiw7s/view?usp=sharing)
 
 ### Tools
-![Header](https://github.com/Malyaev/Malyaev/blob/main/LINKEDIN.pn)
+![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Charles50.png)
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/LINKEDIN.pg)
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/LINKEDIN.ng)
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/LINKEDIN.pg)
