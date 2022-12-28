@@ -1,0 +1,597 @@
+{
+	"info": {
+		"_postman_id": "b6d87da2-d385-47be-9db7-f0e5b6646325",
+		"name": "Задание",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "22807993"
+	},
+	"item": [
+		{
+			"name": "Создание корзины без времени",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "9ccb1c77-4f0c-447d-bd0d-ab4fc813e484",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 2\n        },\n        {\n            \"id\": 5,\n            \"quantity\": 2\n        },\n        {\n            \"id\": 3,\n            \"quantity\": 1\n        }\n    ]\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://b6ff885d-6edd-4aa2-9919-4701110b0d54.serverhub.praktikum-services.ru/api/v1/orders/",
+					"protocol": "https",
+					"host": [
+						"b6ff885d-6edd-4aa2-9919-4701110b0d54",
+						"serverhub",
+						"praktikum-services",
+						"ru"
+					],
+					"path": [
+						"api",
+						"v1",
+						"orders",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Создание корзины со временем доставки",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "9ccb1c77-4f0c-447d-bd0d-ab4fc813e484",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 2\n        },\n        {\n            \"id\": 5,\n            \"quantity\": 2\n        }\n    ],\n\"deliveryTime\": \"15:00\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://b6ff885d-6edd-4aa2-9919-4701110b0d54.serverhub.praktikum-services.ru/api/v1/orders/",
+					"protocol": "https",
+					"host": [
+						"b6ff885d-6edd-4aa2-9919-4701110b0d54",
+						"serverhub",
+						"praktikum-services",
+						"ru"
+					],
+					"path": [
+						"api",
+						"v1",
+						"orders",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "получить список продуктов, которые добавили в корзину id2",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "9ccb1c77-4f0c-447d-bd0d-ab4fc813e484",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://b6ff885d-6edd-4aa2-9919-4701110b0d54.serverhub.praktikum-services.ru/api/v1/orders/2/",
+					"protocol": "https",
+					"host": [
+						"b6ff885d-6edd-4aa2-9919-4701110b0d54",
+						"serverhub",
+						"praktikum-services",
+						"ru"
+					],
+					"path": [
+						"api",
+						"v1",
+						"orders",
+						"2",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "получить список продуктов, которые добавили в корзину id4",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "9ccb1c77-4f0c-447d-bd0d-ab4fc813e484",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://b6ff885d-6edd-4aa2-9919-4701110b0d54.serverhub.praktikum-services.ru/api/v1/orders/4/",
+					"protocol": "https",
+					"host": [
+						"b6ff885d-6edd-4aa2-9919-4701110b0d54",
+						"serverhub",
+						"praktikum-services",
+						"ru"
+					],
+					"path": [
+						"api",
+						"v1",
+						"orders",
+						"4",
+						""
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Удаление корзины",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "9ccb1c77-4f0c-447d-bd0d-ab4fc813e484",
+							"type": "string"
+						}
+					]
+				},
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "https://b6ff885d-6edd-4aa2-9919-4701110b0d54.serverhub.praktikum-services.ru/api/v1/orders/9",
+					"protocol": "https",
+					"host": [
+						"b6ff885d-6edd-4aa2-9919-4701110b0d54",
+						"serverhub",
+						"praktikum-services",
+						"ru"
+					],
+					"path": [
+						"api",
+						"v1",
+						"orders",
+						"9"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Добавление продуктов в корзину",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "9ccb1c77-4f0c-447d-bd0d-ab4fc813e484",
+							"type": "string"
+						}
+					]
+				},
+				"method": "PUT",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 9,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 13,\n            \"quantity\": 1\n        }\n    ]\n}"
+				},
+				"url": {
+					"raw": "https://b6ff885d-6edd-4aa2-9919-4701110b0d54.serverhub.praktikum-services.ru/api/v1/orders/2",
+					"protocol": "https",
+					"host": [
+						"b6ff885d-6edd-4aa2-9919-4701110b0d54",
+						"serverhub",
+						"praktikum-services",
+						"ru"
+					],
+					"path": [
+						"api",
+						"v1",
+						"orders",
+						"2"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Создание набора",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "9ccb1c77-4f0c-447d-bd0d-ab4fc813e484",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n       \"name\": \"Мой набор\",\n       \"card\": {\n           \"id\": 1,\n           \"name\": \"Под ситуацию\"\n       }\n   }",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://b6ff885d-6edd-4aa2-9919-4701110b0d54.serverhub.praktikum-services.ru/api/v1/kits",
+					"protocol": "https",
+					"host": [
+						"b6ff885d-6edd-4aa2-9919-4701110b0d54",
+						"serverhub",
+						"praktikum-services",
+						"ru"
+					],
+					"path": [
+						"api",
+						"v1",
+						"kits"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Добавление 1 товара в набор",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "9ccb1c77-4f0c-447d-bd0d-ab4fc813e484",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 1\n        }\n    ]\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://b6ff885d-6edd-4aa2-9919-4701110b0d54.serverhub.praktikum-services.ru/api/v1/kits/7/products",
+					"protocol": "https",
+					"host": [
+						"b6ff885d-6edd-4aa2-9919-4701110b0d54",
+						"serverhub",
+						"praktikum-services",
+						"ru"
+					],
+					"path": [
+						"api",
+						"v1",
+						"kits",
+						"7",
+						"products"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Добавление 8 товара в набор Copy",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "9ccb1c77-4f0c-447d-bd0d-ab4fc813e484",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \n    \"productsList\": [\n        {\n            \"id\": 2,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 3,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 4,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 5,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 6,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 7,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 8,\n            \"quantity\": 1\n        }\n    ]\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://b6ff885d-6edd-4aa2-9919-4701110b0d54.serverhub.praktikum-services.ru/api/v1/kits/7/products",
+					"protocol": "https",
+					"host": [
+						"b6ff885d-6edd-4aa2-9919-4701110b0d54",
+						"serverhub",
+						"praktikum-services",
+						"ru"
+					],
+					"path": [
+						"api",
+						"v1",
+						"kits",
+						"7",
+						"products"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Добавление 29 товара в набор Copy 2",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "9ccb1c77-4f0c-447d-bd0d-ab4fc813e484",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 9,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 10,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 11,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 12,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 13,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 14,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 15,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 16,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 17,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 18,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 19,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 20,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 21,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 22,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 23,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 24,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 25,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 26,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 27,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 28,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 29,\n            \"quantity\": 1\n        }\n    ]\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://b6ff885d-6edd-4aa2-9919-4701110b0d54.serverhub.praktikum-services.ru/api/v1/kits/7/products",
+					"protocol": "https",
+					"host": [
+						"b6ff885d-6edd-4aa2-9919-4701110b0d54",
+						"serverhub",
+						"praktikum-services",
+						"ru"
+					],
+					"path": [
+						"api",
+						"v1",
+						"kits",
+						"7",
+						"products"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Добавление 30 товара в набор Copy 3",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "9ccb1c77-4f0c-447d-bd0d-ab4fc813e484",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 30,\n            \"quantity\": 1\n        }\n    ]\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://b6ff885d-6edd-4aa2-9919-4701110b0d54.serverhub.praktikum-services.ru/api/v1/kits/7/products",
+					"protocol": "https",
+					"host": [
+						"b6ff885d-6edd-4aa2-9919-4701110b0d54",
+						"serverhub",
+						"praktikum-services",
+						"ru"
+					],
+					"path": [
+						"api",
+						"v1",
+						"kits",
+						"7",
+						"products"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Добавление 31 товара в набор Copy 4",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "9ccb1c77-4f0c-447d-bd0d-ab4fc813e484",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 31,\n            \"quantity\": 1\n        }\n    ]\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://b6ff885d-6edd-4aa2-9919-4701110b0d54.serverhub.praktikum-services.ru/api/v1/kits/7/products",
+					"protocol": "https",
+					"host": [
+						"b6ff885d-6edd-4aa2-9919-4701110b0d54",
+						"serverhub",
+						"praktikum-services",
+						"ru"
+					],
+					"path": [
+						"api",
+						"v1",
+						"kits",
+						"7",
+						"products"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Добавление 35 товара в набор Copy 6",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "9ccb1c77-4f0c-447d-bd0d-ab4fc813e484",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"productsList\": [\n        {\n            \"id\": 1,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 2,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 3,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 4,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 5,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 6,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 7,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 8,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 9,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 10,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 11,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 12,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 13,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 14,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 15,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 16,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 17,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 18,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 19,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 20,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 21,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 22,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 23,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 24,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 25,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 26,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 27,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 28,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 29,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 30,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 31,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 32,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 33,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 34,\n            \"quantity\": 1\n        },\n        {\n            \"id\": 35,\n            \"quantity\": 1\n        }\n    ]\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://b6ff885d-6edd-4aa2-9919-4701110b0d54.serverhub.praktikum-services.ru/api/v1/kits/7/products",
+					"protocol": "https",
+					"host": [
+						"b6ff885d-6edd-4aa2-9919-4701110b0d54",
+						"serverhub",
+						"praktikum-services",
+						"ru"
+					],
+					"path": [
+						"api",
+						"v1",
+						"kits",
+						"7",
+						"products"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "есть ли доставка курьерской службой «Привезём быстро» и сколько она стоит.",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "9ccb1c77-4f0c-447d-bd0d-ab4fc813e484",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "<InputModel>\n    <productsCount>2</productsCount>\n    <productsWeight>3</productsWeight>\n    <deliveryTime>18</deliveryTime>\n</InputModel>",
+					"options": {
+						"raw": {
+							"language": "xml"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://1d6cafac-0a73-404d-8e35-9c930d90c50b.serverhub.praktikum-services.ru/fast-delivery/v3.1.1/calculate-delivery.xml",
+					"protocol": "https",
+					"host": [
+						"1d6cafac-0a73-404d-8e35-9c930d90c50b",
+						"serverhub",
+						"praktikum-services",
+						"ru"
+					],
+					"path": [
+						"fast-delivery",
+						"v3.1.1",
+						"calculate-delivery.xml"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
