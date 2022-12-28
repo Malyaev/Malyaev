@@ -15,8 +15,6 @@
 + Коллекция в Postman
   - [Я. Самокат](https://github.com/Malyaev/Malyaev/blob/main/Postman/Я_Самокат.json)
   - [Интернет-магазин](https://github.com/Malyaev/Malyaev/blob/main/Postman/ishop.json)
-+ SQL запросы
-  - Совсем скоро!!!
 
 ### Инструменты и технологии
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Charles50.png)
