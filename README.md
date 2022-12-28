@@ -13,11 +13,10 @@
   - [Я. Самокат(Mind Maps, Чек-листы, тест-кейсы, баг-репорты)!](https://glow-typhoon-fc7.notion.site/b8230506bab14db7a39784ec324464f0)
   - Совсем скоро!!!
 + Коллекция в Postman
-  - Проект 1
-  - Проект 2
+  - [Я. Самокат!] (https://github.com/Malyaev/Malyaev/blob/main/Postman/Я_Самокат.json)
+  - Совсем скоро!!
 + SQL запросы
-  - Проект 1
-  - Проект 2
+  - Совсем скоро!!!
 
 ### Инструменты и технологии
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Charles50.png)
