@@ -10,11 +10,11 @@
 
 ## Портфолио   
 + Проекты
-  - [Я. Самокат(Mind Maps, Чек-листы, тест-кейсы, баг-репорты)!](https://glow-typhoon-fc7.notion.site/b8230506bab14db7a39784ec324464f0)
+  - [Я. Самокат(Mind Maps, Чек-листы, тест-кейсы, баг-репорты)](https://glow-typhoon-fc7.notion.site/b8230506bab14db7a39784ec324464f0)
   - Совсем скоро!!!
 + Коллекция в Postman
-  - [Я. Самокат!](https://github.com/Malyaev/Malyaev/blob/main/Postman/Я_Самокат.json)
-  - [интернет-магазин!](https://github.com/Malyaev/Malyaev/blob/main/Postman/ishop.json)
+  - [Я. Самокат](https://github.com/Malyaev/Malyaev/blob/main/Postman/Я_Самокат.json)
+  - [Интернет-магазин](https://github.com/Malyaev/Malyaev/blob/main/Postman/ishop.json)
 + SQL запросы
   - Совсем скоро!!!
 
