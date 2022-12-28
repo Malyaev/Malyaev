@@ -8,12 +8,10 @@
 ## Резюме
 [Ссылка на резюме!](https://drive.google.com/file/d/1hg46UsOtsbOL6jGPHrs_3uuz7DGYiw7s/view?usp=sharing)
 
-## Портфолио
-+ Тестовая документация
-  - Тест-кейсы
-  - Чек-листы
-  - Mind Maps
-  - Баг-репорты
+## Портфолио   
++ Проекты
+  - [Я. Самокат(Mind Maps, Чек-листы, тест-кейсы, баг-репорты)!](https://glow-typhoon-fc7.notion.site/b8230506bab14db7a39784ec324464f0)
+  - Совсем скоро!!!
 + Коллекция в Postman
   - Проект 1
   - Проект 2
