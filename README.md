@@ -14,7 +14,7 @@
   - Совсем скоро!!!
 + Коллекция в Postman
   - [Я. Самокат!](https://github.com/Malyaev/Malyaev/blob/main/Postman/Я_Самокат.json)
-  - Совсем скоро!!
+  - [интернет-магазин!](https://github.com/Malyaev/Malyaev/blob/main/Postman/ishop.json)
 + SQL запросы
   - Совсем скоро!!!
 
