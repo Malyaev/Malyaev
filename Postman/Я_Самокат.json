@@ -1,0 +1,170 @@
+{
+	"info": {
+		"_postman_id": "092ecef8-a609-417d-85bf-eb697a0efe19",
+		"name": "Диплом",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "22807993"
+	},
+	"item": [
+		{
+			"name": "Создание курьера",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"login\": \"qazwsx\",\n    \"password\": \"1234\",\n    \"firstName\": \"Владимир\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://6d8ea6a6-b2d0-41b6-8952-89f5cded3593.serverhub.praktikum-services.ru/api/v1/courier",
+					"protocol": "https",
+					"host": [
+						"6d8ea6a6-b2d0-41b6-8952-89f5cded3593",
+						"serverhub",
+						"praktikum-services",
+						"ru"
+					],
+					"path": [
+						"api",
+						"v1",
+						"courier"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Создание заказа",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"firstName\": \"Вася\",\n    \"lastName\": \"Иванов\",\n    \"address\": \"Ивановская, 34 \",\n    \"metroStation\": 4,\n    \"phone\": \"+7 800 355 35 35\",\n    \"rentTime\": 5,\n    \"deliveryDate\": \"2020-06-06\",\n    \"comment\": \"БАХ БАХ\",\n    \"color\": [\n        \"BLACK\"\n    ]\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://6d8ea6a6-b2d0-41b6-8952-89f5cded3593.serverhub.praktikum-services.ru/api/v1/orders",
+					"protocol": "https",
+					"host": [
+						"6d8ea6a6-b2d0-41b6-8952-89f5cded3593",
+						"serverhub",
+						"praktikum-services",
+						"ru"
+					],
+					"path": [
+						"api",
+						"v1",
+						"orders"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Логин курьера в системе",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"login\": \"Vladimir1\",\n    \"password\": \"1234\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://6d8ea6a6-b2d0-41b6-8952-89f5cded3593.serverhub.praktikum-services.ru/api/v1/courier/login",
+					"protocol": "https",
+					"host": [
+						"6d8ea6a6-b2d0-41b6-8952-89f5cded3593",
+						"serverhub",
+						"praktikum-services",
+						"ru"
+					],
+					"path": [
+						"api",
+						"v1",
+						"courier",
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Удаление курьера",
+			"request": {
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"id\": \"\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://6d8ea6a6-b2d0-41b6-8952-89f5cded3593.serverhub.praktikum-services.ru/api/v1/courier/14",
+					"protocol": "https",
+					"host": [
+						"6d8ea6a6-b2d0-41b6-8952-89f5cded3593",
+						"serverhub",
+						"praktikum-services",
+						"ru"
+					],
+					"path": [
+						"api",
+						"v1",
+						"courier",
+						"14"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Получить заказ по его номеру",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://6d8ea6a6-b2d0-41b6-8952-89f5cded3593.serverhub.praktikum-services.ru/api/v1/orders/track?t=752142",
+					"protocol": "https",
+					"host": [
+						"6d8ea6a6-b2d0-41b6-8952-89f5cded3593",
+						"serverhub",
+						"praktikum-services",
+						"ru"
+					],
+					"path": [
+						"api",
+						"v1",
+						"orders",
+						"track"
+					],
+					"query": [
+						{
+							"key": "t",
+							"value": "752142"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
