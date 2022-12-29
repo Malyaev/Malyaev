@@ -10,7 +10,7 @@
 
 ## Портфолио   
 + Проекты
-  - [Я. Самокат(Mind Maps, Чек-листы, тест-кейсы, баг-репорты)](https://goo.su/KEWy)
+  - [Я. Самокат(Mind Maps, Чек-листы, тест-кейсы, валидация полей, баг-репорты)](https://goo.su/KEWy)
  
 + Коллекция в Postman
   - [Я. Самокат](https://github.com/Malyaev/Malyaev/blob/main/Postman/Я_Самокат.json)
