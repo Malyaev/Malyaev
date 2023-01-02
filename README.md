@@ -37,3 +37,26 @@
 [![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Telegram30.png)](https://t.me/mva_qa)
 [![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/LinkedIn30.png)](https://www.linkedin.com/in/malyaev/)
 [![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Mail.png)](email://vladimir.qae@gmail.com)
+
+http://www.rapidtables.com/web/html/mailto.htm
+
+[code:]html[:code]&lt;a href="mailto:name@email.com"&gt;Link text&lt;/a&gt;
+[/code]
+
+<table class="table table-striped table-condensed table-hover">
+<tr><th>Parameter</th><th>Description</th></tr>
+<tr><td>mailto:name@email.com</td><td>e-mail recipient address</td></tr>
+<tr><td>cc=name@email.com</td><td>carbon copy e-mail address</td></tr>
+<tr><td>bcc=name@email.com</td><td>blind carbon copy e-mail address</td></tr>
+<tr><td>subject=subject text</td><td>subject of e-mail</td></tr>
+<tr><td>body=body text</td><td>body of e-mail</td></tr>
+<tr><td>?</td><td>first parameter delimiter</td></tr>
+<tr><td>&amp;</td><td>other parameters delimiter</td></tr>
+</table>
+<br>
+<br>
+<p>Если необходимо использовать русский язык, его следует сначала <a href ="http://www.codenet.ru/services/urlencode-urldecode/">закодировать</a></p>
+
+<p>
+<a href="mailto:name@email.com?cc=name@email.com&bcc=name@email.com&subject=%D0%9F%D1%80%D0%B8%D0%BC%D0%B5%D1%80 %D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F&body=%D0%90 %0A%D1%8D%D1%82%D0%BE %0A%D1%82%D0%B5%D0%BA%D1%81%D1%82 %0A%D0%B2 %0A%D0%BD%D0%B5%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%BA%D0%BE%0A%D1%81%D1%82%D1%80%D0%BE%D0%BA...">Пример использования</a>
+</p>
