@@ -30,6 +30,7 @@
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/DevTools.png)
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Drawio.png)
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Notion.png)
+![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/browserstack.png)
 
 ### Контакты
 [![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Telegram30.png)](https://t.me/mva_qa)
