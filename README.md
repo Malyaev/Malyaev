@@ -31,6 +31,7 @@
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/DevTools.png)
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Drawio.png)
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Notion.png)
+![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Virtualbox.png)
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/browserstack.png)
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/pixel_perfect.png)
 
