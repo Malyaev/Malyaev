@@ -36,4 +36,4 @@
 ### Контакты
 [![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Telegram30.png)](https://t.me/mva_qa)
 [![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/LinkedIn30.png)](https://www.linkedin.com/in/malyaev/)
-[![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Mail.png)](vladimir.qae@gmail.com)
+[![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Mail.png)]([https](https://vladimir.qae@gmail.com)
