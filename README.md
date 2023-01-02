@@ -24,6 +24,7 @@
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Figma50.png)
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Mysql50.png)
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Postgresql.png)
+![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Yandex_Tracker.png)
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/AS.png)
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/java.png)
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Python.png)
@@ -32,6 +33,7 @@
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Notion.png)
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/browserstack.png)
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/pixel_perfect.png)
+
 
 ### Контакты
 [![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Telegram30.png)](https://t.me/mva_qa)
