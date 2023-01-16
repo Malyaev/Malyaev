@@ -31,6 +31,7 @@
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Figma50.png)
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Mysql50.png)
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/Postgresql.png)
+![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/dbeaver.png)
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/YT.png)
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/AS.png)
 ![Header](https://github.com/Malyaev/Malyaev/blob/main/icon/java.png)
