@@ -12,7 +12,7 @@
 + Проекты
   - [Я. Самокат(Mind Maps, Чек-листы, тест-кейсы, валидация полей, API, Charles, DevTools, баг-репорты)](https://goo.su/KEWy)
  
- + Сертификаты
++ Сертификаты
   - [Сертификат о прохождении обучения "Инженер по тестированию"](https://drive.google.com/file/d/18FfszT_tc3IlBoRCe6z3zx7FHY3w80hP/view?usp=sharing)
 
 + Благодарность
