@@ -12,6 +12,13 @@
 + Проекты
   - [Я. Самокат(Mind Maps, Чек-листы, тест-кейсы, валидация полей, API, Charles, DevTools, баг-репорты)](https://goo.su/KEWy)
  
+ + Сертификаты
+  - [Сертификат о прохождении обучения "Инженер по тестированию"](https://drive.google.com/file/d/18FfszT_tc3IlBoRCe6z3zx7FHY3w80hP/view?usp=sharing)
+
++ Благодарность
+  - [ОД “Дай Лапу”](https://drive.google.com/file/d/1HoP8oNtGyc3F4QMgdI8x03vyqv27yzel/view?usp=sharing)
+
+ 
 + Коллекция в Postman
   - [Я. Самокат](https://github.com/Malyaev/Malyaev/blob/main/Postman/Я_Самокат.json)
   - [Интернет-магазин](https://github.com/Malyaev/Malyaev/blob/main/Postman/ishop.json)
